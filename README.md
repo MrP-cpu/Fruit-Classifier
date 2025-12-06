@@ -39,7 +39,7 @@ Images are **100×100 RGB**, well-organized into subfolders per class.
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
@@ -109,7 +109,7 @@ print("Predicted Class:", class_idx)
 
 ---
 
-## � Results Visualization
+##  Results Visualization
 
 * Accuracy and loss curves for training & validation
 * Random prediction visualization with correct/incorrect classification colors
