@@ -1,6 +1,3 @@
-##  README.md — Fruits Classification using CNN (Fruits-360 Dataset)
-
-
 #  Fruits Classification using Convolutional Neural Network
 
 This project is a Deep Learning based Fruits Classification system trained using the **Fruits-360** dataset.  
