@@ -1,4 +1,4 @@
-#  Fruits Classification using Convolutional Neural Network
+# Fruits Classification using Convolutional Neural Network
 
 This project is a Deep Learning based Fruits Classification system trained using the **Fruits-360** dataset.  
 The model uses a **custom CNN architecture** and is trained on Kaggle GPU (P100).
