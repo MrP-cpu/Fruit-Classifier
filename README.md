@@ -124,9 +124,5 @@ print("Predicted Class:", class_idx)
 
 ## Future Improvements
 
-* Transfer learning using MobileNetV2/EfficientNet
 * Real-time webcam fruit recognition
-* Convert to TensorFlow Lite for mobile apps
 * Deploy using Flask/Streamlit
-
-```
